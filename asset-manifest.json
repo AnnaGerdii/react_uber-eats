@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_uber-eats/static/css/main.64fc147b.chunk.css",
+    "main.css": "/react_uber-eats/static/css/main.a414514d.chunk.css",
     "main.js": "/react_uber-eats/static/js/main.d02b14c3.chunk.js",
     "main.js.map": "/react_uber-eats/static/js/main.d02b14c3.chunk.js.map",
     "runtime~main.js": "/react_uber-eats/static/js/runtime~main.bef14170.js",
@@ -8,8 +8,8 @@
     "static/js/2.b4efc14b.chunk.js": "/react_uber-eats/static/js/2.b4efc14b.chunk.js",
     "static/js/2.b4efc14b.chunk.js.map": "/react_uber-eats/static/js/2.b4efc14b.chunk.js.map",
     "index.html": "/react_uber-eats/index.html",
-    "precache-manifest.edfd6bdc97a095b3ee653c5fa222889a.js": "/react_uber-eats/precache-manifest.edfd6bdc97a095b3ee653c5fa222889a.js",
+    "precache-manifest.8d138a744c4e1aa9b583b5076baf110e.js": "/react_uber-eats/precache-manifest.8d138a744c4e1aa9b583b5076baf110e.js",
     "service-worker.js": "/react_uber-eats/service-worker.js",
-    "static/css/main.64fc147b.chunk.css.map": "/react_uber-eats/static/css/main.64fc147b.chunk.css.map"
+    "static/css/main.a414514d.chunk.css.map": "/react_uber-eats/static/css/main.a414514d.chunk.css.map"
   }
 }
